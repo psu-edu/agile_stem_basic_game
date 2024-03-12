@@ -1,1 +1,2 @@
 AGILE_STEM_GAME/** filter=lfs diff=lfs merge=lfs -text
+AGILE_STEM_GAME/Assets/** filter=lfs diff=lfs merge=lfs -text
