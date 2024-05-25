@@ -18,3 +18,4 @@ The project focuses on model-based systems and production engineering (MBSPE) ST
 ![Water Filling Machine in Unity Scene](https://github.com/psu-edu/agile_stem_basic_game/blob/e08ea757c78dd619772c549e3ebb181531afffea/AGILE_STEM_GAME/Assets/Blender%20Assets/Asset%20Screenshots/water_filling_unity.png)
 ![Water Bottle Packaging Machine](https://github.com/psu-edu/agile_stem_basic_game/blob/e08ea757c78dd619772c549e3ebb181531afffea/AGILE_STEM_GAME/Assets/Blender%20Assets/Asset%20Screenshots/water-packaging-machine.png)
 ![Water Bottle Packaging Machine Unity Scene](https://github.com/psu-edu/agile_stem_basic_game/blob/e08ea757c78dd619772c549e3ebb181531afffea/AGILE_STEM_GAME/Assets/Blender%20Assets/Asset%20Screenshots/water_packaging_machine_unity.png)
+![Water bottles](https://github.com/psu-edu/agile_stem_basic_game/blob/7583560323e038699719fd4144b0d0c33d963fe7/AGILE_STEM_GAME/Assets/Imported%20Assets/Blender%20Assets/asset_screenshots/water_bottles_unity.png)
