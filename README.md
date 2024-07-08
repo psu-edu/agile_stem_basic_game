@@ -17,4 +17,8 @@ The project focuses on model-based systems and production engineering (MBSPE) ST
 
 ### [Video for 7_04_24](https://www.youtube.com/watch?v=IoUlHEkjuGc&feature=youtu.be)
 
+The above video depicts the initial state of an ordering system. The player is able to press E in order to pull up an ordering menu, from here they can make a list of orders by choosing which of the three lines the order should go to, how many bottles the order should make in total, and how many bottles should be in each shipment. In this way the player can control the rate in which bottles come into a line by having the forklift bring in as few or many bottles as the player wishes at a time. You can also remove orders before they are made by pressing the X next to them. Once the player is ready they can click the set order button. A forklift will then work to make the orders in the specified order. At this point the system only works with one forklift moving at a time, but it will be made to handle two forklifts that move at the same time without colliding.
+
 ### [Video for 6_27_24](https://youtu.be/W1szCSUhD0Q)
+
+This video shows the control that the player has over the system once bottles are in place. At this point the player can control the number of bottles that are released per minute into the conveyor line, the speed of the conveyors in meters per second, the number of bottles in wrapped packages, gates at buffer points, and the number of bottles that the forklift brings into the system at a time.
