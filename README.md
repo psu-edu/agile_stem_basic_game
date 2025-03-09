@@ -14,9 +14,12 @@ The project focuses on model-based systems and production engineering (MBSPE) ST
 
 
 ## Video of Environment Status
+
+### [Video for 2_17_25](https://youtu.be/mrC2iBaFJn8) 
+This video captures the addition of the levels and tutorial system
+
 ### [Video for 11_5_24](https://youtu.be/EdjRQWPmuqE) 
 This video captures the addition of the avatar that moves around, all the lines working automatically, and how a video could be recorded of the facility
-
 
 ### [Video for 8_7_24]( https://youtu.be/_0_LhOKbQTw) 
 This video shows the current progress of the leveling system. By pressing 'R' the player can pull up a level screen, this can be adapted and put into whatever menu system we end up having in the future. Then when they click on a new level, it resets the current level with the bottles. Currently, it has the option for free play, which is all the lanes, two forklifts, and controls for everything. There is also level 1, which is basically what we talked about before with 1 lane with set speeds where the player only controls the orders from one forklift. As you can see it depicts the speeds to the player on the controls, but if they are disabled they are now greyed out. 
