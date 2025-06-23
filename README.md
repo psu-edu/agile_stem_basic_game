@@ -14,7 +14,7 @@ The project focuses on model-based systems and production engineering (MBSPE) ST
 
 
 ## Video of Environment Status
-#### [Video for 6_14_25](https://youtu.be/LFZ6y1oQF1M) 
+### [Video for 6_23_25](https://youtu.be/mrhI4oOtOfM) 
 This video shows all the features of the current version.
 
 ### [Video for 3_23_25](https://youtu.be/JZ4whM124tg) 
