@@ -72,3 +72,24 @@ crashlytics-build.properties
 [Aa]ssets/[Ss]treamingAssets/aa/*
 AGILE_STEM_GAME/.vscode/extensions.json
 AGILE_STEM_GAME/.vscode/launch.json
+
+# Python simulation inputs/outputs
+AGILE_STEM_GAME/Assets/PythonSimulation/*.json*
+
+# User-generated JSONs
+AGILE_STEM_GAME/Assets/Users/*.json*
+
+# Ignore RenderPipelineProfiles folder & its meta
+AGILE_STEM_GAME/Assets/StarterAssets/Environment/RenderPipelineProfiles/
+AGILE_STEM_GAME/Assets/StarterAssets/Environment/RenderPipelineProfiles.meta
+
+# Ignore ThirdPersonController folder & its meta
+AGILE_STEM_GAME/Assets/StarterAssets/ThirdPersonController/
+AGILE_STEM_GAME/Assets/StarterAssets/ThirdPersonController.meta
+
+# Upgrade log
+AGILE_STEM_GAME/UpgradeLog.htm
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
