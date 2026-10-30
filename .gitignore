@@ -79,6 +79,9 @@ AGILE_STEM_GAME/Assets/PythonSimulation/*.json*
 # User-generated JSONs
 AGILE_STEM_GAME/Assets/Users/*.json*
 
+# ignore all collected data
+AGILE_STEM_GAME/Assets/Data/*
+
 # Ignore RenderPipelineProfiles folder & its meta
 AGILE_STEM_GAME/Assets/StarterAssets/Environment/RenderPipelineProfiles/
 AGILE_STEM_GAME/Assets/StarterAssets/Environment/RenderPipelineProfiles.meta
@@ -93,3 +96,6 @@ AGILE_STEM_GAME/UpgradeLog.htm
 # Ignore Python cache files
 *.pyc
 __pycache__/
+
+#ignore API Configuration File DO NOT REMOVE THIS IT STORES SENSITIVE KEYS
+AGILE_STEM_GAME/APIConfig.json
